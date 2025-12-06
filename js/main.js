@@ -22,7 +22,6 @@ async function fetchdata(id) {
     }
 
     let res = await data.json()
-    console.log(res);
     current = res.results
 }
 // get random question from API
