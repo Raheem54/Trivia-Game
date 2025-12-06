@@ -2,7 +2,7 @@
 
 A dynamic quiz application built with **Vanilla JavaScript**. This project fetches questions from the Open Trivia Database API, has multiple categories and error handling system.
 
-[🔴 **Live Demo**](LINK_TO_YOUR_HOSTED_PROJECT_HERE)
+[🔴 **Live Demo**](https://raheem54.github.io/Trivia-Game/)
 
 ## Features
 
@@ -18,3 +18,4 @@ A dynamic quiz application built with **Vanilla JavaScript**. This project fetch
 * **Bootstrap 5** (For grid system and responsive layout)
 * **JavaScript (ES6+)**
 * **API:** [Open Trivia DB](https://opentdb.com/)
+
