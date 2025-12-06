@@ -8,6 +8,7 @@ html {
     width: 250px;
     cursor: pointer;
     flex-shrink: 0 !important;
+    border: 1px rgba(0, 0, 0, 0.1) solid;
     transition: all 0.3s;
 }
 
